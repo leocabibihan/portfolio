@@ -36,3 +36,14 @@
 					</div>
 				</div>
 			</div>
+
+			flex-direction: column-reverse
+
+@media(max-width: 767px) { /* <== You can change this break point as per your  needs */
+  .custom-columns {
+    flex-direction: column-reverse;
+    display: flex;
+  }
+}
+
+use this when replacing projects section with zig zag column layout
