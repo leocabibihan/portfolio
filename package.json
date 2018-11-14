@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/leocabibihan/portfolio/issues"
   },
-  "homepage": "https://github.com/leocabibihan/portfolio",
+  "homepage": "https://leocabibihan.github.com/portfolio",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
