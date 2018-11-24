@@ -1,3 +1,4 @@
 # portfolio
 my personal portfolio,
-uses bulma
+uses bulma 
+https://leocabibihan.github.io/portfolio/
